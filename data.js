@@ -16,6 +16,7 @@ const GROUP = {
     "Farai",
     "Chipo",
     "Tatenda",
-    "Tawanda"
+    "Tawanda",
+    "Phil"
   ],
 };
