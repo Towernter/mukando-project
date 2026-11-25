@@ -1,6 +1,6 @@
 
 const GROUP = {
-  name: "Harare Tech Mukando",
+  name: "Africa Tech Mukando",
 
   // How much each member pays in, every month
   contribution: 50,
